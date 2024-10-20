@@ -13,7 +13,7 @@
 
 <!-- Frontend -->
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/css-#663399?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
@@ -30,7 +30,7 @@
 <!-- Frameworks -->
 ![Laravel](https://img.shields.io/badge/Laravel-F53003?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React_Native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React_Native](https://img.shields.io/badge/React_Native-#09D3AC?style=for-the-badge&logo=createreactapp&logoColor=61DAFB)&nbsp;
 ![Expo](https://img.shields.io/badge/Expo-#1C2024?style=for-the-badge&logo=expo&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white)&nbsp;
@@ -50,9 +50,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Windows_Server](https://img.shields.io/badge/Windows_Server-FC6E6B?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp
-![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=black)&nbsp
+![Windows_Server](https://img.shields.io/badge/Windows_Server-FC6E6B?style=for-the-badge&logo=codesandbox&logoColor=black)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=black)&nbsp;
 
 <!-- AI -->
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
