@@ -30,8 +30,8 @@
 <!-- Frameworks -->
 ![Laravel](https://img.shields.io/badge/Laravel-F53003?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React_Native](https://img.shields.io/badge/React_Native-#09D3AC?style=for-the-badge&logo=createreactapp&logoColor=61DAFB)&nbsp;
-![Expo](https://img.shields.io/badge/Expo-#1C2024?style=for-the-badge&logo=expo&logoColor=61DAFB)&nbsp;
+![React_Native](https://img.shields.io/badge/React-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=61DAFB)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=expo&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
